@@ -42,4 +42,4 @@ E. COMMAND:
 
  (b) For Mapping:   
  
- python Map_Normalize.py -c <Config file>
+     python Map_Normalize.py -c <Config file>
