@@ -37,8 +37,8 @@ E. COMMAND:
 
  (a) For Training:  
  
- python TrainModel.py -c <Config file> (if executed without interruption)
- python TrainModel.py -c <Config file> -r (if loads a saved model)
+  1. python TrainModel.py -c <Config file> (if executed without interruption)
+  2. python TrainModel.py -c <Config file> -r (if loads a saved model)
 
  (b) For Mapping:   
  
