@@ -1,6 +1,8 @@
 # TredMiL
 Truncated Normal Mixture Prior Based Deep Latent Model
 
+Article: 
+
 The codes are written in Python (Python3). The dependencies for the execution of the codes are as follows -
 
 A. DEPENDENCIES:
