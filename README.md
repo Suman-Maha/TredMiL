@@ -2,7 +2,7 @@
 
 The codes are written in Python (Python3). The dependencies for the execution of the codes are as follows -
 
-DEPENDENCIES:
+A. DEPENDENCIES:
 
  1. PyTorch
  2. numpy
@@ -11,13 +11,13 @@ DEPENDENCIES:
  5. tensorboard
  6. tensorboardX
 
-HARDWARE SETTING:
+B. HARDWARE SETTING:
 
 The model is trained using an NVIDIA RTX A4000 with 6144 CUDA cores and 16GB storage. You can try to use 
 fewer GPUs or reduce the batch size if it does not fit in your GPU memory, but training stability and 
 image quality cannot be guaranteed.
 
-DATA ARRANGEMENT:
+C. DATA ARRANGEMENT:
 
 The code directory should contain a <Data Set folder>. The <Data Set folder> should contain 4 sub-folders-
  (a) <training folder> - contains training set image patches
@@ -28,7 +28,7 @@ The code directory should contain a <Data Set folder>. The <Data Set folder> sho
 N.B. - Here '<.>' denotes the folder name (user-defined). The folder named 'DataFolder' contains sample 
 data arrangement. The sub-folders contain sample image patches.
 
-INPUT FILE FORMAT:
+D. INPUT FILE FORMAT:
 
  (a) Input image patches : RGB histology images, resolution - 256x256
  (b) Config file : contains information about all hyperparameter setting, data route etc.
