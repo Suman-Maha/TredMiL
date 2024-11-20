@@ -4,12 +4,12 @@ The codes are written in Python (Python3). The dependencies for the execution of
 
 DEPENDENCIES:
 
- -PyTorch
- -numpy
- -scipy
- -yaml
- -tensorboard
- -tensorboardX
+ 1. PyTorch
+ 2. numpy
+ 3. scipy
+ 4. yaml
+ 5. tensorboard
+ 6. tensorboardX
 
 HARDWARE SETTING:
 
