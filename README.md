@@ -33,9 +33,13 @@ D. INPUT FILE FORMAT:
  (a) Input image patches : RGB histology images, resolution - 256x256
  (b) Config file : contains information about all hyperparameter setting, data route etc.
 
-COMMAND:
+E. COMMAND:
 
- (a) For Training:  python TrainModel.py -c <Config file> (if executed without interruption)
-                    python TrainModel.py -c <Config file> -r (if loads a saved model)
+ (a) For Training:  
+ 
+ python TrainModel.py -c <Config file> (if executed without interruption)
+ python TrainModel.py -c <Config file> -r (if loads a saved model)
 
- (b) For Mapping:   python Map_Normalize.py -c <Config file>
+ (b) For Mapping:   
+ 
+ python Map_Normalize.py -c <Config file>
