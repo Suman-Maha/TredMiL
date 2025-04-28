@@ -2,7 +2,7 @@
 Truncated Normal Mixture Prior Based Deep Latent Model
 
 ### Article: 
-S. Mahapatra and P. Maji, "Truncated Normal Mixture Prior Based Deep Latent Model for Color Normalization of Histology Images," in *IEEE Transactions on Medical Imaging*, pp. 1--12, 2023.
+S. Mahapatra and P. Maji, "Truncated Normal Mixture Prior Based Deep Latent Model for Color Normalization of Histology Images," in *IEEE Transactions on Medical Imaging*, pp. 1746--1757, 2023.
 doi: 10.1109/TMI.2023.3238425
 
 URL: https://ieeexplore.ieee.org/document/10024118
